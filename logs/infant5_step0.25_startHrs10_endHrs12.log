@@ -1,0 +1,608 @@
+-------------------------------------------------------------------------
+Data bin index: 10.000
+start: 9000000, end: 9225000
+start: 1800000, end: 1845000
+90th percentile: 0.2860141455851968, 10th percentile: -0.29725487619771546, IQR: 0.5832690217829122
+Identified outliers: 15
+Data Shape: (225000,)
+90th percentile: 0.5200003386975386, 10th percentile: 0.5090424771541039, IQR: 0.0109578615434347
+Identified outliers: 20
+Data Shape: (45000,)
+[[133.76158517   5.16205048]
+ [  5.16205048 136.54050482]]
+Pearsons correlation: 0.038
+Spearmans correlation: -0.002
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 0.0019650168426590398
+Intercept: [132.92384]
+Coefficients: [[0.04487665]]
+Mean absolute error: 6.25
+Mean squared error: 135.73
+Root mean squared error: 11.65
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.006160157377278264
+Intercept: [132.27504]
+Coefficients: [[ 3.5952388e-10 -7.1497195e-09  4.4638162e-07  7.9142837e-06
+  -2.3569487e-07  1.7547728e-09]]
+Mean absolute error: 6.27
+Mean squared error: 139.87
+Root mean squared error: 11.83
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: 0.032083168697366715
+Intercept: [-0.10143603]
+Mean absolute error: 6.06
+Mean squared error: 117.54
+Root mean squared error: 10.84
+-------------------------------------------------------------------------
+Data bin index: 10.250
+start: 9225000, end: 9450000
+start: 1845000, end: 1890000
+90th percentile: 0.27102650476850526, 10th percentile: -0.2985038462657731, IQR: 0.5695303510342784
+Identified outliers: 67
+Data Shape: (225000,)
+90th percentile: 0.5279696925473093, 10th percentile: 0.5140233233102106, IQR: 0.013946369237098688
+Identified outliers: 2
+Data Shape: (45000,)
+[[146.44205472   1.31487205]
+ [  1.31487205 226.40690309]]
+Pearsons correlation: 0.007
+Spearmans correlation: -0.023
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 3.9743473782771765e-05
+Intercept: [137.59338]
+Coefficients: [[0.00786872]]
+Mean absolute error: 9.48
+Mean squared error: 221.25
+Root mean squared error: 14.87
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.0008919283989864413
+Intercept: [138.2247]
+Coefficients: [[-1.6366951e-10 -3.8826528e-08 -2.0000294e-07 -3.5644046e-06
+   1.4813635e-07 -1.5089867e-09]]
+Mean absolute error: 9.51
+Mean squared error: 231.94
+Root mean squared error: 15.23
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: -0.0076259861499332615
+Intercept: [-0.02565612]
+Mean absolute error: 12.06
+Mean squared error: 270.57
+Root mean squared error: 16.45
+-------------------------------------------------------------------------
+Data bin index: 10.500
+start: 9450000, end: 9675000
+start: 1890000, end: 1935000
+90th percentile: 0.28476517551713915, 10th percentile: -0.30100178640188835, IQR: 0.5857669619190276
+Identified outliers: 30
+Data Shape: (225000,)
+90th percentile: 0.5468969079405147, 10th percentile: 0.5239850156224239, IQR: 0.022911892318090765
+Identified outliers: 0
+Data Shape: (45000,)
+[[138.18703176   5.54767908]
+ [  5.54767908 178.89338375]]
+Pearsons correlation: 0.035
+Spearmans correlation: 0.024
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 0.0016725490217947003
+Intercept: [133.09987]
+Coefficients: [[0.04695755]]
+Mean absolute error: 8.07
+Mean squared error: 170.31
+Root mean squared error: 13.05
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.0004418901753872051
+Intercept: [134.5762]
+Coefficients: [[ 1.3536213e-11  2.2323954e-09  1.7042872e-08  3.0504367e-07
+   2.6672526e-09 -1.1486234e-10]]
+Mean absolute error: 8.25
+Mean squared error: 186.27
+Root mean squared error: 13.65
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: -0.09143936309518574
+Intercept: [-0.21843116]
+Mean absolute error: 8.59
+Mean squared error: 185.30
+Root mean squared error: 13.61
+-------------------------------------------------------------------------
+Data bin index: 10.750
+start: 9675000, end: 9900000
+start: 1935000, end: 1980000
+90th percentile: 0.28476517551713915, 10th percentile: -0.3084956068102341, IQR: 0.5932607823273732
+Identified outliers: 21
+Data Shape: (225000,)
+90th percentile: 0.6136402464323444, 10th percentile: 0.5558624310215068, IQR: 0.057777815410837596
+Identified outliers: 0
+Data Shape: (45000,)
+[[145.22218033   4.01553665]
+ [  4.01553665 265.18972625]]
+Pearsons correlation: 0.020
+Spearmans correlation: -0.030
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 0.0004113313532546625
+Intercept: [138.3237]
+Coefficients: [[0.02729038]]
+Mean absolute error: 10.51
+Mean squared error: 270.04
+Root mean squared error: 16.43
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.004140139593676206
+Intercept: [136.1529]
+Coefficients: [[ 7.65588370e-10  1.33408395e-08  9.58206783e-07  1.70217500e-05
+  -5.81522386e-07  5.01257080e-09]]
+Mean absolute error: 10.28
+Mean squared error: 258.70
+Root mean squared error: 16.08
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: 0.06079090774793505
+Intercept: [-1.93588349]
+Mean absolute error: 10.39
+Mean squared error: 246.16
+Root mean squared error: 15.69
+-------------------------------------------------------------------------
+Data bin index: 11.000
+start: 9900000, end: 10125000
+start: 1980000, end: 2025000
+90th percentile: 0.29725487619771546, 10th percentile: -0.332226038103329, IQR: 0.6294809143010445
+Identified outliers: 1507
+Data Shape: (225000,)
+90th percentile: 0.6973184618549368, 10th percentile: 0.6325674618255498, IQR: 0.06475100002938705
+Identified outliers: 0
+Data Shape: (45000,)
+[[143.18847993  16.3993348 ]
+ [ 16.3993348  564.60819251]]
+Pearsons correlation: 0.058
+Spearmans correlation: 0.033
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 0.00358945864002691
+Intercept: [144.25081]
+Coefficients: [[0.11869394]]
+Mean absolute error: 16.35
+Mean squared error: 569.78
+Root mean squared error: 23.87
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.007235875701958161
+Intercept: [141.20802]
+Coefficients: [[ 1.5711209e-09  3.5712159e-08  1.9703136e-06  3.5044017e-05
+  -1.1921878e-06  1.0321839e-08]]
+Mean absolute error: 16.46
+Mean squared error: 590.38
+Root mean squared error: 24.30
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: -0.1937114693656048
+Intercept: [0.01068911]
+Mean absolute error: 17.12
+Mean squared error: 593.37
+Root mean squared error: 24.36
+-------------------------------------------------------------------------
+Data bin index: 11.250
+start: 10125000, end: 10350000
+start: 2025000, end: 2070000
+90th percentile: 0.2797692952449087, 10th percentile: -0.31598942721857987, IQR: 0.5957587224634886
+Identified outliers: 1374
+Data Shape: (225000,)
+90th percentile: 0.791954538820964, 10th percentile: 0.7122610003232569, IQR: 0.0796935384977071
+Identified outliers: 0
+Data Shape: (45000,)
+[[ 132.04052587    9.46894867]
+ [   9.46894867 3241.21994621]]
+Pearsons correlation: 0.014
+Spearmans correlation: 0.042
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 0.00037089406989776474
+Intercept: [144.64449]
+Coefficients: [[0.09011354]]
+Mean absolute error: 27.56
+Mean squared error: 4288.28
+Root mean squared error: 65.48
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.00037501599362299576
+Intercept: [145.77394]
+Coefficients: [[ 1.6674982e-10  2.3191539e-08  1.9962951e-07  3.5639996e-06
+  -6.8202766e-08  1.9752022e-10]]
+Mean absolute error: 26.97
+Mean squared error: 3819.91
+Root mean squared error: 61.81
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: -0.7335840271302221
+Intercept: [-0.0978584]
+Mean absolute error: 49.71
+Mean squared error: 5074.39
+Root mean squared error: 71.23
+-------------------------------------------------------------------------
+Data bin index: 11.500
+start: 10350000, end: 10575000
+start: 2070000, end: 2115000
+90th percentile: 0.2273125523864883, 10th percentile: -0.2610347442240442, IQR: 0.4883472966105325
+Identified outliers: 1402
+Data Shape: (225000,)
+90th percentile: 0.9065140004114178, 10th percentile: 0.8118779234453908, IQR: 0.09463607696602705
+Identified outliers: 0
+Data Shape: (45000,)
+[[ 143.26547976   -1.77549048]
+ [  -1.77549048 1715.64934516]]
+Pearsons correlation: -0.004
+Spearmans correlation: -0.034
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 3.79590478502001e-05
+Intercept: [159.90588]
+Coefficients: [[-0.0212367]]
+Mean absolute error: 29.50
+Mean squared error: 1763.58
+Root mean squared error: 41.99
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.00013149400263068323
+Intercept: [158.72238]
+Coefficients: [[ 2.6512947e-10 -2.0892047e-08  3.2487077e-07  5.7634984e-06
+  -2.1551124e-07  1.9915483e-09]]
+Mean absolute error: 29.14
+Mean squared error: 1643.14
+Root mean squared error: 40.54
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: -0.03718857252655039
+Intercept: [-0.59028499]
+Mean absolute error: 31.41
+Mean squared error: 1879.50
+Root mean squared error: 43.35
+-------------------------------------------------------------------------
+Data bin index: 11.750
+start: 10575000, end: 10800000
+start: 2115000, end: 2160000
+90th percentile: 0.1973372707531052, 10th percentile: -0.24354916327123743, IQR: 0.44088643402434263
+Identified outliers: 1083
+Data Shape: (225000,)
+90th percentile: 1.127663569742555, 10th percentile: 0.9443684311978288, IQR: 0.18329513854472623
+Identified outliers: 0
+Data Shape: (45000,)
+[[138.26549235  11.95454158]
+ [ 11.95454158 336.71583928]]
+Pearsons correlation: 0.055
+Spearmans correlation: 0.039
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 0.0027521971088763086
+Intercept: [155.95709]
+Coefficients: [[0.08135534]]
+Mean absolute error: 13.08
+Mean squared error: 350.79
+Root mean squared error: 18.73
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.004946040970568055
+Intercept: [154.05202]
+Coefficients: [[ 9.3544894e-10 -2.0957617e-07  1.1875845e-06  2.1310454e-05
+  -7.1991673e-07  6.2158136e-09]]
+Mean absolute error: 12.91
+Mean squared error: 335.46
+Root mean squared error: 18.32
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: -0.01048853905169822
+Intercept: [0.18888612]
+Mean absolute error: 14.18
+Mean squared error: 365.86
+Root mean squared error: 19.13
+-------------------------------------------------------------------------
+Data bin index: 10.000
+start: 9000000, end: 9225000
+start: 1800000, end: 1845000
+90th percentile: 0.2860141455851968, 10th percentile: -0.29725487619771546, IQR: 0.5832690217829122
+Identified outliers: 15
+Data Shape: (225000,)
+90th percentile: 0.5200003386975386, 10th percentile: 0.5090424771541039, IQR: 0.0109578615434347
+Identified outliers: 20
+Data Shape: (45000,)
+[[133.76158517   5.16205048]
+ [  5.16205048 136.54050482]]
+Pearsons correlation: 0.038
+Spearmans correlation: -0.002
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 0.0013867281067150294
+Intercept: [133.17767]
+Coefficients: [[0.03777077]]
+Mean absolute error: 6.18
+Mean squared error: 133.50
+Root mean squared error: 11.55
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.006893468864919705
+Intercept: [132.21623]
+Coefficients: [[ 3.0580702e-10 -2.1406041e-08  3.7836776e-07  6.7068095e-06
+  -1.8574892e-07  1.2580141e-09]]
+Mean absolute error: 6.15
+Mean squared error: 126.75
+Root mean squared error: 11.26
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: 0.021033271023499944
+Intercept: [0.06359617]
+Mean absolute error: 6.71
+Mean squared error: 143.48
+Root mean squared error: 11.98
+-------------------------------------------------------------------------
+Data bin index: 10.250
+start: 9225000, end: 9450000
+start: 1845000, end: 1890000
+90th percentile: 0.27102650476850526, 10th percentile: -0.2985038462657731, IQR: 0.5695303510342784
+Identified outliers: 67
+Data Shape: (225000,)
+90th percentile: 0.5279696925473093, 10th percentile: 0.5140233233102106, IQR: 0.013946369237098688
+Identified outliers: 2
+Data Shape: (45000,)
+[[146.44205472   1.31487205]
+ [  1.31487205 226.40690309]]
+Pearsons correlation: 0.007
+Spearmans correlation: -0.023
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 7.962476355538595e-05
+Intercept: [137.50911]
+Coefficients: [[0.01111559]]
+Mean absolute error: 9.42
+Mean squared error: 222.69
+Root mean squared error: 14.92
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.0008589798793505743
+Intercept: [138.1551]
+Coefficients: [[-1.5497292e-10 -9.7320036e-09 -1.9000022e-07 -3.3870822e-06
+   1.4165599e-07 -1.4498251e-09]]
+Mean absolute error: 9.42
+Mean squared error: 218.70
+Root mean squared error: 14.79
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: -0.0018995141031756813
+Intercept: [-0.06508716]
+Mean absolute error: 9.61
+Mean squared error: 231.21
+Root mean squared error: 15.21
+-------------------------------------------------------------------------
+Data bin index: 10.500
+start: 9450000, end: 9675000
+start: 1890000, end: 1935000
+90th percentile: 0.28476517551713915, 10th percentile: -0.30100178640188835, IQR: 0.5857669619190276
+Identified outliers: 30
+Data Shape: (225000,)
+90th percentile: 0.5468969079405147, 10th percentile: 0.5239850156224239, IQR: 0.022911892318090765
+Identified outliers: 0
+Data Shape: (45000,)
+[[138.18703176   5.54767908]
+ [  5.54767908 178.89338375]]
+Pearsons correlation: 0.035
+Spearmans correlation: 0.024
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 0.0011851876792930982
+Intercept: [133.49904]
+Coefficients: [[0.03934184]]
+Mean absolute error: 8.18
+Mean squared error: 174.76
+Root mean squared error: 13.22
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.0005745990369405707
+Intercept: [134.37929]
+Coefficients: [[ 4.5095580e-11  6.6878068e-09  5.6799173e-08  1.0156513e-06
+  -2.0470335e-08  7.7734263e-11]]
+Mean absolute error: 8.33
+Mean squared error: 182.66
+Root mean squared error: 13.52
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: -0.07312828828882201
+Intercept: [-0.2635298]
+Mean absolute error: 11.76
+Mean squared error: 249.17
+Root mean squared error: 15.79
+-------------------------------------------------------------------------
+Data bin index: 10.750
+start: 9675000, end: 9900000
+start: 1935000, end: 1980000
+90th percentile: 0.28476517551713915, 10th percentile: -0.3084956068102341, IQR: 0.5932607823273732
+Identified outliers: 21
+Data Shape: (225000,)
+90th percentile: 0.6136402464323444, 10th percentile: 0.5558624310215068, IQR: 0.057777815410837596
+Identified outliers: 0
+Data Shape: (45000,)
+[[145.22218033   4.01553665]
+ [  4.01553665 265.18972625]]
+Pearsons correlation: 0.020
+Spearmans correlation: -0.030
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 0.00043854932688658366
+Intercept: [138.23848]
+Coefficients: [[0.02837849]]
+Mean absolute error: 10.39
+Mean squared error: 261.26
+Root mean squared error: 16.16
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.0045916311550209254
+Intercept: [135.59431]
+Coefficients: [[ 8.8455882e-10  3.8198360e-07  1.1021846e-06  1.9556594e-05
+  -6.7107442e-07  5.8220735e-09]]
+Mean absolute error: 10.47
+Mean squared error: 267.73
+Root mean squared error: 16.36
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: 0.07397021703196516
+Intercept: [-2.31625654]
+Mean absolute error: 10.22
+Mean squared error: 232.52
+Root mean squared error: 15.25
+-------------------------------------------------------------------------
+Data bin index: 11.000
+start: 9900000, end: 10125000
+start: 1980000, end: 2025000
+90th percentile: 0.29725487619771546, 10th percentile: -0.332226038103329, IQR: 0.6294809143010445
+Identified outliers: 1507
+Data Shape: (225000,)
+90th percentile: 0.6973184618549368, 10th percentile: 0.6325674618255498, IQR: 0.06475100002938705
+Identified outliers: 0
+Data Shape: (45000,)
+[[143.18847993  16.3993348 ]
+ [ 16.3993348  564.60819251]]
+Pearsons correlation: 0.058
+Spearmans correlation: 0.033
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 0.0033982540635666414
+Intercept: [144.2986]
+Coefficients: [[0.11596061]]
+Mean absolute error: 16.20
+Mean squared error: 558.36
+Root mean squared error: 23.63
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.008843769324311967
+Intercept: [140.36992]
+Coefficients: [[ 1.73621617e-09 -1.10916211e-07  2.16465219e-06  3.84545492e-05
+  -1.30555043e-06  1.12865095e-08]]
+Mean absolute error: 16.19
+Mean squared error: 554.71
+Root mean squared error: 23.55
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: -0.21381282789868905
+Intercept: [0.11605126]
+Mean absolute error: 19.15
+Mean squared error: 614.52
+Root mean squared error: 24.79
+-------------------------------------------------------------------------
+Data bin index: 11.250
+start: 10125000, end: 10350000
+start: 2025000, end: 2070000
+90th percentile: 0.2797692952449087, 10th percentile: -0.31598942721857987, IQR: 0.5957587224634886
+Identified outliers: 1374
+Data Shape: (225000,)
+90th percentile: 0.791954538820964, 10th percentile: 0.7122610003232569, IQR: 0.0796935384977071
+Identified outliers: 0
+Data Shape: (45000,)
+[[ 132.04052587    9.46894867]
+ [   9.46894867 3241.21994621]]
+Pearsons correlation: 0.014
+Spearmans correlation: 0.042
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 0.00028143669624636214
+Intercept: [145.14044]
+Coefficients: [[0.08473617]]
+Mean absolute error: 26.43
+Mean squared error: 2854.92
+Root mean squared error: 53.43
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.0002037681245917744
+Intercept: [146.23969]
+Coefficients: [[ 2.3100115e-10  2.6326283e-08  2.8024758e-07  5.0119643e-06
+  -1.3947482e-07  9.8923714e-10]]
+Mean absolute error: 26.55
+Mean squared error: 3261.81
+Root mean squared error: 57.11
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: -0.7904607284250351
+Intercept: [-0.06144352]
+Mean absolute error: 52.03
+Mean squared error: 5460.98
+Root mean squared error: 73.90
+-------------------------------------------------------------------------
+Data bin index: 11.500
+start: 10350000, end: 10575000
+start: 2070000, end: 2115000
+90th percentile: 0.2273125523864883, 10th percentile: -0.2610347442240442, IQR: 0.4883472966105325
+Identified outliers: 1402
+Data Shape: (225000,)
+90th percentile: 0.9065140004114178, 10th percentile: 0.8118779234453908, IQR: 0.09463607696602705
+Identified outliers: 0
+Data Shape: (45000,)
+[[ 143.26547976   -1.77549048]
+ [  -1.77549048 1715.64934516]]
+Pearsons correlation: -0.004
+Spearmans correlation: -0.034
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 3.904209765481781e-06
+Intercept: [158.66801]
+Coefficients: [[0.00682351]]
+Mean absolute error: 29.33
+Mean squared error: 1738.56
+Root mean squared error: 41.70
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.00010587854150001519
+Intercept: [159.2515]
+Coefficients: [[ 7.8401667e-11  5.7097198e-09  9.5936230e-08  1.7022717e-06
+  -6.2269116e-08  5.4521099e-10]]
+Mean absolute error: 29.47
+Mean squared error: 1629.44
+Root mean squared error: 40.37
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: -0.04973776147968656
+Intercept: [-0.64550485]
+Mean absolute error: 37.34
+Mean squared error: 2098.76
+Root mean squared error: 45.81
+-------------------------------------------------------------------------
+Data bin index: 11.750
+start: 10575000, end: 10800000
+start: 2115000, end: 2160000
+90th percentile: 0.1973372707531052, 10th percentile: -0.24354916327123743, IQR: 0.44088643402434263
+Identified outliers: 1083
+Data Shape: (225000,)
+90th percentile: 1.127663569742555, 10th percentile: 0.9443684311978288, IQR: 0.18329513854472623
+Identified outliers: 0
+Data Shape: (45000,)
+[[138.26549235  11.95454158]
+ [ 11.95454158 336.71583928]]
+Pearsons correlation: 0.055
+Spearmans correlation: 0.039
+---------------------------------------------
+--- Linear Regression ---
+Coefficient of determination: 0.002843402677978779
+Intercept: [155.87062]
+Coefficients: [[0.08255406]]
+Mean absolute error: 12.97
+Mean squared error: 353.85
+Root mean squared error: 18.81
+---------------------------------------------
+--- Polynomial Regression ---
+Coefficient of determination: 0.0038872944659372743
+Intercept: [154.59721]
+Coefficients: [[ 8.5022756e-10 -6.8362965e-08  1.0805027e-06  1.9376708e-05
+  -6.5931766e-07  5.7304703e-09]]
+Mean absolute error: 12.94
+Mean squared error: 335.91
+Root mean squared error: 18.33
+---------------------------------------------
+--- SVR Radius Basis Function---
+Coefficient of determination: -0.015128783996370077
+Intercept: [0.26719442]
+Mean absolute error: 12.75
+Mean squared error: 328.03
+Root mean squared error: 18.11
