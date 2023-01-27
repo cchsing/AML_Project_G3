@@ -15,7 +15,7 @@ Please look at notebook 9 and 10 for final results.
 
 [Notebook 9](./notebooks/notebook9_1.ipynb)
 
-[Notebook 10](./notebooks/notebook10)
+[Notebook 10](./notebooks/notebook10_0.ipynb)
 
 The modules or libraries are packaged in
 
